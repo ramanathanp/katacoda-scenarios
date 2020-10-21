@@ -1,0 +1,26 @@
+{
+  "title": "Sample",
+  "description": "Sample scenario",
+  "difficulty": "Beginner",
+  "time": "1 minute",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "javascript"
+  }
+}
